@@ -6,5 +6,7 @@ public class Calculator {
     return 3 + 6;
   
   }
-  
+  public int add(int a, int b) {
+    return a + b;
   }
+}
